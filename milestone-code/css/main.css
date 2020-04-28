@@ -1,0 +1,121 @@
+/***BASE STYLES***/
+h3 {
+    font-family: 'Gotu', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+h5 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+#contact {
+    background: #F87F54;
+    height: 450px;
+    padding: 0 auto;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.full-width {
+    margin: 0 auto;
+    width: 1200px;
+}
+.third-width {
+    float: left;
+    width: 400px;
+    text-align: center;
+}
+
+
+/***HEADER***/
+#navigation {
+    height: 100px;
+}
+header {
+    background: white;
+    background-size: cover;
+    height: 500px;
+}
+header h1 {
+    font-family: 'Gotu', sans-serif;
+    font-size: 30px;
+    padding: 0px 100px;
+}
+header h1 span {
+    color:#007050;
+}
+header h2 {
+    font-family: 'Raleway', sans-serif;
+    padding: 0px 100px 50px;
+    width: 700px;
+}
+nav {
+    float: right;
+    padding: 75px 25px;
+}
+nav ul li {
+    display: inline-block
+}
+nav ul li a {
+    color: black; 
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    padding-left: 80px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+/***ABOUT***/
+#about {
+    background: #007050;
+    color: white;
+    height: 700px;
+    padding: 0 auto;
+    padding-top: 100px;
+    text-align: center;
+}
+#about img {
+    border: 5px solid white;
+    text-align: center;
+}
+#about p {
+    font-size: 15px;
+    padding-left: 300px;
+    padding-right: 300px;
+    word-spacing: 2px;
+}
+div .full-width {
+    font-family: 'Gotu', sans-serif; 
+}
+
+/***WORK***/
+#work {
+    background: #F6C231;
+    height: 650px;
+    padding: 0 auto;
+    padding-top: 100px;
+    text-align: center;
+}
+#work p {
+    word-spacing: 3px;
+    letter-spacing: 2px;
+}
+
+/***CONTACT***/
+#contact {
+    background: #F87F54;
+    color: white;
+    height: 450px;
+    padding: 0 auto;
+    padding-top: 100px;
+    text-align: center;
+}
+footer h6 {
+    text-align: center;
+}
